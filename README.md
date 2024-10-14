@@ -16,7 +16,7 @@ Hi! I'm Aidil Azhar Ikmal, a student in the Software Maintenance and Evolution c
    - **Application**: Apply appropriate maintenance techniques in real-world scenarios.
 
 ### 3. Applying Tools and Techniques for Software Maintenance
-   - **Objective**: Gain hands-on experience with maintenance tools (e.g., version control, bug tracking).
+   - **Objective**: Gain hands-on experience with maintenance tools such as version control.
    - **Application**: Use these tools to effectively maintain and update software systems.
 
 ### 4. Assessing Strategies for Evolving Legacy Software
